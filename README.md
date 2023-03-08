@@ -1,2 +1,2 @@
 My first readme
-thi is an update though
+this is an update 
